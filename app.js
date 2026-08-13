@@ -1,1 +1,1 @@
-console.log('Devops Application v1.0');
+//Base application configuration
